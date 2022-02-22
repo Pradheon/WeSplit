@@ -12,7 +12,9 @@ v1.5
 - [100 Days of SwiftUI](<https://www.hackingwithswift.com/100/swiftui> "100 Days of SwiftUI")
 
 ## Screenshots
-*Coming Soon*
+| `Numpad Input` | `Calculated Tips/Total` |
+| :-: | :-: |
+| <div><img height="relative" alt="Numpad Input" src="https://imgur.com/IQCuxRc?raw=true"/></div> | <div><img height="relative" alt="Calculated Tips/Total" src="https://imgur.com/1qL52Vg?raw=true"/></div> |
 
 # How to Use
 *Coming Soon*
