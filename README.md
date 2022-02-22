@@ -14,7 +14,7 @@ v1.5
 ## Screenshots
 | `Numpad Input` | `Calculated Tips/Total` |
 | :-: | :-: |
-| <div><img height="relative" alt="Numpad Input" src="https://photos.app.goo.gl/97pFj1ViNX5cPZ6d8?width=377&height=670?raw=true"/></div> | <div><img height="relative" alt="Calculated Tips/Total" src="https://imgur.com/1qL52Vg?raw=true"/></div> |
+| <div><img height="relative" alt="Numpad Input" src="https://media.discordapp.net/attachments/945767772078624779/945767811484090388/numpad.png?width=377&height=670"/></div> | <div><img height="relative" alt="Calculated Tips/Total" src="https://imgur.com/1qL52Vg?raw=true"/></div> |
 
 # How to Use
 *Coming Soon*
