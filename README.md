@@ -20,7 +20,7 @@ v1.5
 | <div><img height="relative" alt="Tip Percentage Picker" src="https://media.discordapp.net/attachments/945767772078624779/945767812062916628/tip-percent.png?width=377&height=670"/></div> | <div><img height="relative" alt="Number of People Picker" src="https://media.discordapp.net/attachments/945767772078624779/945767811786113084/num-people.png?width=377&height=670"/></div> |
 |  |  |
 | `No Tip Selection` | `App Demo` |
-| <div><img height="relative" alt="No Tip Selection" src="https://media.discordapp.net/attachments/945767772078624779/945767811274395708/no-tip.png?width=377&height=670"/></div> | <div><img height="relative" alt="App Demo" src="https://imgur.com/8DI7jg9"/></div> |
+| <div><img height="relative" alt="No Tip Selection" src="https://media.discordapp.net/attachments/945767772078624779/945767811274395708/no-tip.png?width=377&height=670"/></div> | <div><img height="relative" alt="App Demo" src="https://media.discordapp.net/attachments/945767772078624779/945774911824203877/WeSplit-1.gif?width=377&height=670"/></div> |
 
 # How to Use
 1. Input the check total amount.
