@@ -19,7 +19,7 @@ v1.5
 | `Tip Percentage Picker` | `Number of People Picker` |
 | <div><img height="relative" alt="Tip Percentage Picker" src="https://media.discordapp.net/attachments/945767772078624779/945767812062916628/tip-percent.png?width=377&height=670"/></div> | <div><img height="relative" alt="Number of People Picker" src="https://media.discordapp.net/attachments/945767772078624779/945767811786113084/num-people.png?width=377&height=670"/></div> |
 |  |  |
-| `No Tip Selection` | `App Demo` |
+| `No Tip Selection` | 
 | <div><img height="relative" alt="No Tip Selection" src="https://media.discordapp.net/attachments/945767772078624779/945767811274395708/no-tip.png?width=377&height=670"/></div> |
 
 # How to Use
