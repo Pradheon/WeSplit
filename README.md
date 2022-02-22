@@ -21,6 +21,7 @@ v1.5
 |  |  |
 | `No Tip Selection` | `App Demo` |
 | <div><img height="relative" alt="No Tip Selection" src="https://media.discordapp.net/attachments/945767772078624779/945767811274395708/no-tip.png?width=377&height=670"/></div> | <div><video height="relative" controls><source src="https://cdn.discordapp.com/attachments/945767772078624779/945769270032367646/WeSplit.mp4" type="video/mp4"></video></div> |
+
 https://cdn.discordapp.com/attachments/945767772078624779/945769270032367646/WeSplit.mp4
 
 # How to Use
